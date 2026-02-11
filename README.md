@@ -69,4 +69,10 @@ The File Handling Utility in Java effectively demonstrates basic file operations
 
 This task builds a strong foundation for developing more advanced file-based applications.
 
+#output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f9d70833-1bb6-4dba-824e-2e5e67074890" />
+
+
+
 
